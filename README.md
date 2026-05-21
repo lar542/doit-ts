@@ -32,9 +32,9 @@
     - [06-1. 반복기 이해하기](./chapter06/ch06-1.md)
     - [06-2. 생성기 이해하기](./chapter06/ch06-2.md)
 7. Promise와 async/await 구문
-    - 07-1. 비동기 콜백 함수
-    - 07-2. Promise 이해하기
-    - 07-3. async와 await 구문
+    - [07-1. 비동기 콜백 함수](./chapter07/ch07-1.md)
+    - [07-2. Promise 이해하기](./chapter07/ch07-2.md)
+    - [07-3. async와 await 구문](./chapter07/ch07-3.md)
 8. 함수 조합의 원리와 응용
     - 08-1. 함수형 프로그래밍이란?
     - 08-2. 제네릭 함수
